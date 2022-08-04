@@ -16,8 +16,7 @@ The image below shows the webpage refactored.
 
 ## Location
 
-https://twangerwang.github.io/
-
+https://twangerwang.github.io/Week01CodeRefactor/
 
 ## Credits
 
